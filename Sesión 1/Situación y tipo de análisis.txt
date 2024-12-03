@@ -1,0 +1,8 @@
+Tipo de análisis:
+1. Análisis Descriptivo 
+2. Análisis Predictivo
+3. Análisis Predictivo
+4. Análisis Prescriptivo
+5. Análisis Diagnóstico 
+6. Análisis Descriptivo 
+7. Análisis Diagnóstico
