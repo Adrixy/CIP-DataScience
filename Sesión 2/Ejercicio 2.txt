@@ -1,0 +1,10 @@
+pais = input("Ingresa tu país de origen: ")
+nombre = input("Ingresa tu nombre: ")
+longitud_nombre = len(nombre)
+
+if pais.lower() == "colombia" and longitud_nombre < 5:
+    print("Pertenece al grupo de Colombia A")
+elif pais.lower() == "méxico" and longitud_nombre >= 5:
+    print("Pertenece al grupo de México B")
+else:
+    print("Pertenece al grupo de otros")
